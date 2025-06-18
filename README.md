@@ -1,4 +1,4 @@
-# Application ReeWayy 
+# Application de Facturation - ReeWayy 
 
 Ceci est une application Spring Boot conçue pour gérer les clients et leurs factures. Elle fournit une API RESTful pour effectuer des opérations CRUD sur les entités `Client` et `Facture`, y compris la possibilité de rechercher des factures par ID client et par date.
 
